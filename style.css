@@ -1,9 +1,19 @@
 .virat-kohli-session img {
     width: 150px;
     float: left;
-    padding-right: 1rem;
+    margin-right: 1rem;
 }
 
 .virat-kohli-session p {
+    width: 300px;
+}
+
+.steve-smith-session img {
+    width: 150px;
+    float: left;
+    margin-right: 1rem;
+}
+
+.steve-smith-session p {
     width: 300px;
 }
