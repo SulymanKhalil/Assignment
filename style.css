@@ -32,3 +32,21 @@
 .kane-willimson-session p {
     width: 300px;
 }
+
+@media (max-width: 1065px) {
+    .container {
+        display: block;
+    }
+
+    .virat-kohli-session p {
+        margin-bottom: 3rem;
+    }
+
+    .steve-smith-session p {
+        margin-bottom: 3rem;
+    }
+
+    .kane-willimson-session p {
+        margin-bottom: 3rem;
+    }
+}
